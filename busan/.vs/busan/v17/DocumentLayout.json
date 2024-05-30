@@ -1,19 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\busan\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Uni_HomeWork\\busan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D40C2DC-5E74-4E55-9845-E6A7EE12E9DA}|busan.vcxproj|C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\busan\\busanTrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1D40C2DC-5E74-4E55-9845-E6A7EE12E9DA}|busan.vcxproj|C:\\Users\\user\\Uni_HomeWork\\busan\\busanTrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D40C2DC-5E74-4E55-9845-E6A7EE12E9DA}|busan.vcxproj|solutionrelative:busanTrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB26EC1-611C-458D-BF04-2B42C604AFD6}|..\\process\\Project1\\Project1.vcxproj|C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB26EC1-611C-458D-BF04-2B42C604AFD6}|..\\process\\Project1\\Project1.vcxproj|C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB26EC1-611C-458D-BF04-2B42C604AFD6}|..\\process\\Project1\\Project1.vcxproj|C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +30,44 @@
               "DocumentIndex": 1,
               "Title": "2_3.cpp",
               "DocumentMoniker": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_3.cpp",
-              "RelativeDocumentMoniker": "..\\process\\Project1\\2_3.cpp",
+              "RelativeDocumentMoniker": "..\\..\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_3.cpp",
               "ToolTip": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_3.cpp",
-              "RelativeToolTip": "..\\process\\Project1\\2_3.cpp",
+              "RelativeToolTip": "..\\..\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_3.cpp",
               "ViewState": "AQIAAGYAAAAAAAAAAAAkwL8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T11:58:53.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "2_2.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp",
-              "RelativeDocumentMoniker": "..\\process\\Project1\\2_2.cpp",
-              "ToolTip": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp",
-              "RelativeToolTip": "..\\process\\Project1\\2_2.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAkwHwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T11:58:47.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:58:53.456Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "2_2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp",
+              "RelativeDocumentMoniker": "..\\..\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp",
+              "ToolTip": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp",
+              "RelativeToolTip": "..\\..\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_2.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T11:58:47.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "2_1.cpp",
               "DocumentMoniker": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_1.cpp",
-              "RelativeDocumentMoniker": "..\\process\\Project1\\2_1.cpp",
+              "RelativeDocumentMoniker": "..\\..\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_1.cpp",
               "ToolTip": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_1.cpp",
-              "RelativeToolTip": "..\\process\\Project1\\2_1.cpp",
+              "RelativeToolTip": "..\\..\\#\uB300\uD559\uACFC\uC81C\\process\\Project1\\2_1.cpp",
               "ViewState": "AQIAAC8AAAAAAAAAAAAkwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T11:58:36.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:58:36.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "busanTrain.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\busan\\busanTrain.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Uni_HomeWork\\busan\\busanTrain.cpp",
               "RelativeDocumentMoniker": "busanTrain.cpp",
-              "ToolTip": "C:\\Users\\user\\#\uB300\uD559\uACFC\uC81C\\busan\\busanTrain.cpp",
+              "ToolTip": "C:\\Users\\user\\Uni_HomeWork\\busan\\busanTrain.cpp",
               "RelativeToolTip": "busanTrain.cpp",
               "ViewState": "AQIAAI8AAAAAAAAAAAAAAJsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
